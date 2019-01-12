@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleExecutable</key>
+	<string>Mikogo-launcher</string>
+	<key>CFBundleGetInfoString</key>
+	<string>Mikogo Launcher</string>
+	<key>CFBundleIconFile</key>
+	<string>app.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.mikogo.launcher</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Mikogo Launcher</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>5.10.0</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.business</string>
+	<key>CFBundleVersion</key>
+	<string>5.10.0</string>
+	<key>CFBundleDisplayName</key>
+	<string>Mikogo Launcher</string>
+	<key>NOTE</key>
+	<string>This *.plist file serves as a template for App Store submission</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Mikogo® Launcher, 2015 BeamYourScreen GmbH</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>BuildMachineOSBuild</key>
+	<string>13F34</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>6A317</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>10K549</string>
+	<key>DTSDKName</key>
+	<string>macosx10.6</string>
+	<key>DTXcode</key>
+	<string>0601</string>
+	<key>DTXcodeBuild</key>
+	<string>6A317</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Viewer</string>
+			<key>CFBundleURLIconFile</key>
+			<string>app.icns</string>
+			<key>CFBundleURLName</key>
+			<string>com.mikogo.launcher</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>mikogolauncher</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
