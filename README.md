@@ -1,1 +1,5 @@
-# first_project for bootcamp
+Analyzed data to find what contributes the highest graduation rate in New Jersey.
+Factors included in this research was population, demographic, income, poverty rates, teachers salary, and dropout rate. Cities considered for analysis are Summit, Princeton, Hoboken, Clifton and
+Bridgeton. 
+Created various visualizations to show Graduation rate vs Demographic data, Graduation rate vs population etc. using Matplotlib.
+
