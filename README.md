@@ -7,3 +7,4 @@ Tech Stack
 Jupyter Notebook, Python, Python Pandas, Census API, Matplotlib, Git
 
 
+![alt text](https://github.com/raghir01/graduation_rate_analysis/blob/master/graph/Graduation%20Rate%20and%20Demographic.png)
