@@ -3,3 +3,8 @@ Factors included in this research was population, demographic, income, poverty r
 Bridgeton. 
 Created various visualizations to show Graduation rate vs Demographic data, Graduation rate vs population etc. using Matplotlib.
 
+Tech Stack
+
+Jupyter Notebook, Python, Python Pandas, Census API, Matplotlib, Git
+
+
