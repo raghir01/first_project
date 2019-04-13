@@ -7,4 +7,3 @@ Tech Stack
 Jupyter Notebook, Python, Python Pandas, Census API, Matplotlib, Git
 
 
-
